@@ -1,0 +1,8 @@
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3000
+- PID:          13340
+- Dir:          D:\paliativeKSP\web
+- Log:          .next\dev\logs\next-development.log
+
+Run taskkill /PID 13340 /F to stop it.
